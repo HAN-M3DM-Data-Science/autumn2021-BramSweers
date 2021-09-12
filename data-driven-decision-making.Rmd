@@ -30,4 +30,5 @@ They first explored the data, then they discovered insights, like that Netflix o
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Before they started using 3DM they couldn't know what their customers liked. SO they didn't know where to invest in or which interface they liked. With 3DM they can use data to make better decisions. 
+Before they started using 3DM they couldn't know what their customers liked. SO they didn't know where to invest in or which interface they liked.With the data they can also check how long people watch netflix per day, week, month or year. Maybe some months people watch more than other months, if thats the case then Netflix can target their marketing better than before 3DM. 
+With 3DM they can use data to make better decisions. 
