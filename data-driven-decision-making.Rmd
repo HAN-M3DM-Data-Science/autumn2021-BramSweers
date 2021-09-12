@@ -19,12 +19,15 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+With the rise of new streaming platforms Netflix has to think of new ways to keep their costumers.
+Netflix used data to come to a new strategy. They found out that their original content was some of their most efficient content. So they decided to spend more on their original content. So because of the data they made a business decision. The product managers also use data to determine which shows they need to buy. THe software engineers use the data to check which interface works best for the consumers, they are constantly testing which interface works best and data is a big part in that. The algorithm engineers use the data to make the algorithm the best so people get the best recommendation to watch new shows. Everyone at Netflix works with data to make the customers watch more content so they keep their subscription. 
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+All of the interaction of the customers are written into a pipeline and are stored into a datawarehouse.Then they transform the data using Spark. When its transformed they can summarize the data and put into a reporting layer. Then its available to be visualized. Every person in the company has access to the data and to the reports. They use interactive query's so that everyone can access it.
+So everyone can make reports or use the reports to make data driven decisions. 
+They first explored the data, then they discovered insights, like that Netflix originals are very good for the company, and then they make decisions. 
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Before they started using 3DM they couldn't know what their customers liked. SO they didn't know where to invest in or which interface they liked. With 3DM they can use data to make better decisions. 
