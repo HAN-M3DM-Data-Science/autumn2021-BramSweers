@@ -6,15 +6,21 @@ output:
   html_notebook:
     toc: yes
     toc_depth: 2
+    
 ---
 
 Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
 
 <---- Watch this video if you don't know how to embed video's ---->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nMyuCdqzpZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nMyuCdqzpZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 <---- Replace this video with your business case example ---->
+
+
+## About Netflix
+
+With over 200 million subscribers in the world, Netflix is still the largest streaming content platform worldwide since their launch in 2007. But Netfilx didnt begin as a streaming service, they started as a DVD rental platform. But how did they become the largest streaming service? With the use of Big data.(Mixson, 2021)
 
 
 ## Why was data driven decision making (3DM) useful in this business case?
@@ -24,11 +30,31 @@ Netflix used data to come to a new strategy. They found out that their original 
 
 ## How did the organization apply 3DM?
 
-All of the interaction of the customers are written into a pipeline and are stored into a datawarehouse.Then they transform the data using Spark. When its transformed they can summarize the data and put into a reporting layer. Then its available to be visualized. Every person in the company has access to the data and to the reports. They use interactive query's so that everyone can access it.
+All of the interaction of the customers are written into a pipeline and are stored into a datawarehouse. Some examples of the data that is collected are: 
+- Day of watching
+- Time of watching
+- Device
+- nature of the content
+- Searches
+- Re-watched content
+- content that was paused, rewind, or fast forward
+- location
+- when you stop watching content
+- ratings
+- browsing behavior
+
+
+Then they transform the data using Spark. When its transformed they can summarize the data and put into a reporting layer. Then its available to be visualized. Every person in the company has access to the data and to the reports. They use interactive query's so that everyone can access it.
 So everyone can make reports or use the reports to make data driven decisions. 
-They first explored the data, then they discovered insights, like that Netflix originals are very good for the company, and then they make decisions. 
+They first explored the data, then they discovered insights, like that Netflix originals are very good for the company, and then they make decisions. They also use that data for machine learning algorithms so they can make a pattern for every unigue viewer.(Costa, 2020)
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Before they started using 3DM they couldn't know what their customers liked. SO they didn't know where to invest in or which interface they liked.With the data they can also check how long people watch netflix per day, week, month or year. Maybe some months people watch more than other months, if thats the case then Netflix can target their marketing better than before 3DM. 
-With 3DM they can use data to make better decisions. 
+Before they started using 3DM they couldn't know what their customers liked. SO they didn't know where to invest in or which interface they liked.With the data they can also check how long people watch netflix per day, week, month or year. Maybe some months people watch more than other months, if thats the case then Netflix can target their marketing better than before 3DM. Data is also a big key in making new shows and movies. Big data helps to make the best original content there is. Data helps with shoot locations, time and day of shoot, genre and the planning of the production. 
+
+
+## References
+
+Costa, C. D. (2020, April 19). How Data Science is Boosting Netflix. Retrieved from towardsdatascience: https://towardsdatascience.com/how-data-science-is-boosting-netflix-785a1cba7e45
+
+Mixson, E. (2021, March 03). Data Science at Netflix: How advanced data & analytics helps Netflix generate Billions. Retrieved from AI-data-Analytics: https://www.aidataanalytics.network/data-science-ai/articles/data-science-at-netflix-how-advanced-data-analytics-helped-netflix-generate-billions
