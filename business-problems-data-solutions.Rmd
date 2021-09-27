@@ -15,7 +15,7 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.r 
 
 ## How was it translated into a data mining problem?
 
