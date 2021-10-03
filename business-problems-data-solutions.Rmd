@@ -15,12 +15,20 @@ Search Youtube for a suitable business case example on data driven decision maki
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.r 
+Fraud in the Finance world is a challenging problem. In fact fraud is pretty rare but if a small percentage of the activity in a company is fraud it could become a big loss. Criminals learn to change the fraud tactics but the fraud detection also learns. A lot of companys still review orders manually to detect fraud. This is often costly, time consuming and of course leads to many mistakes(false negatives). So to fix the problem companys are now using machine learning for fraud detection.
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+THe challenge to detect fraud is getting bigger, data is a key factor when it comes to detecting fraud. When you have more data you can make better models to detect fraud. The problem is that when you detect fraud the criminals adapt to other methods of fraud. Thats where machine learning comes in. First you need to train the first model. This model will give more new cases (false prositives) so the model can find new fraud paterns.With the feedback you get you can update the labels of the model.So this way the model wil improve overtime and find new fraud paterns. 
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Fraud is a big problem. With fraud a company could lose a lot of money to criminals or maybe even people working at the company. If you detect the fraud with machine learning you could stop the fraud and find new fraud patern to watch out for in the future. Fraud detection is very important for every company in the world cause its a problem everywhere. So the business value is huge. There isnt really a reason to not want to detect fraud cause it only helps the company and stops criminals. 
+
+## References
+
+Fraud detection and machine learning: What you need to know. 2020. https://www.sas.com/nl_nl/insights/articles/risk-fraud/fraud-detection-machine-learning.html.
+techlabs, Maruti. How machine learning is enhancing fraud detection. 16 09 2020. https://marutitech.medium.com/how-machine-learning-is-enhancing-fraud-detection-694f3a2237f.
+
+
+
