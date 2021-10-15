@@ -9,16 +9,16 @@ output:
 
 Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HQwL6zh7AgA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+ When a company has data that is centralized and originazed the company is data driven. The data then needs to be acceseble for everyone in the company to use. Those people in the company can then use the data to clean and use tools to analyze the data futher. When the data is analyzed the data can be summarized in a BI tool for visualizations. Those visualuzations are then used to make data driven disisions. The company i chose in this assigment is steam (valve). Steam is a platform where you can buy and play games on. If you want to make and publish a game you can do that on steam. Steam offers a data platform to check on your game. You can check how people are playing your games, where they are stuck, what they buy, what do like and dislike, etc. This is a very data driven business because you can keep track of your data by using this platform and make disissions of these findings. (steamdatasuite 2021)
 
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+One of the most important features of a good data culture is that the data is accessible to every employee of the company. Everyone in the company can use the data for something else so they always find something another person didnt find. Of course there are different levels of data so that not everyone can access all the data because some of the data is sensitive information. 
 
 ## What are the transformation steps towards a mature data driven business?
 Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
