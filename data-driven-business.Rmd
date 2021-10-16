@@ -14,12 +14,23 @@ Search Youtube for suitable business case examples on data driven business. Copy
 
 ## What features define a data driven business?
 
- When a company has data that is centralized and originazed the company is data driven. The data then needs to be acceseble for everyone in the company to use. Those people in the company can then use the data to clean and use tools to analyze the data futher. When the data is analyzed the data can be summarized in a BI tool for visualizations. Those visualuzations are then used to make data driven disisions. The company i chose in this assigment is steam (valve). Steam is a platform where you can buy and play games on. If you want to make and publish a game you can do that on steam. Steam offers a data platform to check on your game. You can check how people are playing your games, where they are stuck, what they buy, what do like and dislike, etc. This is a very data driven business because you can keep track of your data by using this platform and make disissions of these findings. (steamdatasuite 2021)
+ When a company has data that is centralized and originazed the company is data driven. The data then needs to be accessible for everyone in the company to use. Those people in the company can then use the data to clean and use tools to analyze the data further. When the data is analyzed the data can be summarized in a BI tool for visualizations. Those visualizations are then used to make data driven decisions. The company i chose in this assignment is steam (valve). Steam is a platform where you can buy and play games on. If you want to make and publish a game you can do that on steam. Steam offers a data platform to check on your game. You can check how people are playing your games, where they are stuck, what they buy, what do like and dislike, etc. This is a very data driven business because you can keep track of your data by using this platform and make decisions of these findings. (steamdatasuite 2021)
 
 ## What are the important features of a data culture?
 
-One of the most important features of a good data culture is that the data is accessible to every employee of the company. Everyone in the company can use the data for something else so they always find something another person didnt find. Of course there are different levels of data so that not everyone can access all the data because some of the data is sensitive information. 
+One of the most important features of a good data culture is that the data is accessible to every employee of the company. Everyone in the company can use the data for something else so they always find something another person didnt find. Of course there are different levels of data so that not everyone can access all the data because some of the data is sensitive information.(4 Characteristics of a Data-Driven Culture 2020)
+At steam they also have a good data culture, they have a platform where developers can access their data and share it with others to improve their game. 
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+
+First of course you need to have access to data. Then the data is shared with the company. When sharing the data you need to have specific data roles to every employee and one person who is responsible for the data. Then you need to give the employees access to data tools, when they have data but no tools or dont know how to use those tools people cant do anything with the data. After that you need to invest in different data projects. You need to continue using the data to make business decisions. And last is to invest in the quality of the data. (5 sign you're a mature data driven organization 2021)
+
+## references
+
+- 4 Characteristics of a Data-Driven Culture. may 2020. https://blog.ad-juster.com/4-characteristics-of-a-data-driven-culture/.
+
+- 5 sign you're a mature data driven organization. 2021. https://www.edq.com/resources/tip-sheets/5-signs-youre-a-mature-data-driven-organization/.
+
+- steamdatasuite. The power of knowing what works. 2021. https://steamdatasuite.com/.
+
 
